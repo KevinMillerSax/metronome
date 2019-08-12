@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KevinMillerSax/metronome/static/css/main.5c597e90.chunk.css",
+    "main.js": "/KevinMillerSax/metronome/static/js/main.49a71681.chunk.js",
+    "main.js.map": "/KevinMillerSax/metronome/static/js/main.49a71681.chunk.js.map",
+    "runtime~main.js": "/KevinMillerSax/metronome/static/js/runtime~main.fb8926a2.js",
+    "runtime~main.js.map": "/KevinMillerSax/metronome/static/js/runtime~main.fb8926a2.js.map",
+    "static/js/2.b7f52e28.chunk.js": "/KevinMillerSax/metronome/static/js/2.b7f52e28.chunk.js",
+    "static/js/2.b7f52e28.chunk.js.map": "/KevinMillerSax/metronome/static/js/2.b7f52e28.chunk.js.map",
+    "index.html": "/KevinMillerSax/metronome/index.html",
+    "precache-manifest.4c8844b38f99fb2e1aa90795189f6e91.js": "/KevinMillerSax/metronome/precache-manifest.4c8844b38f99fb2e1aa90795189f6e91.js",
+    "service-worker.js": "/KevinMillerSax/metronome/service-worker.js",
+    "static/css/main.5c597e90.chunk.css.map": "/KevinMillerSax/metronome/static/css/main.5c597e90.chunk.css.map",
+    "static/media/click1.wav": "/KevinMillerSax/metronome/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/KevinMillerSax/metronome/static/media/click2.fe0ded65.wav"
+  }
+}
