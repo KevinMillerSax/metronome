@@ -1,8 +1,19 @@
+body{
+  background: url(../images/piano.jpeg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+
+}
+
 .metronome {
     text-align: center;
     max-width: 375px;
     margin: 0 auto;
     padding: 30px;
+    margin-top: 40px;
+    background-color: rgba(218, 223, 225, .65);
+    
 }
 
 .bpm-slider input {
@@ -11,7 +22,7 @@
 }
 
 .metronome-button {
-    background: #1867DE;
+    background: rgb(170, 48, 8);
     padding: 10px;
     
     border-radius: 7px;
@@ -79,7 +90,7 @@ input[type=range] {
     height: 46px;
     width: 19px;
     border-radius: 42px;
-    background: #1867DE;
+    background: rgb(170, 48, 8);;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -18px;
@@ -103,7 +114,7 @@ input[type=range] {
     height: 46px;
     width: 19px;
     border-radius: 42px;
-    background: #1867DE;
+    background: rgb(170, 48, 8);;
     cursor: pointer;
   }
   input[type=range]::-ms-track {
@@ -134,7 +145,7 @@ input[type=range] {
     height: 46px;
     width: 19px;
     border-radius: 42px;
-    background: #1867DE;
+    background: rgb(170, 48, 8);;
     cursor: pointer;
   }
   input[type=range]:focus::-ms-fill-lower {
